@@ -2,7 +2,7 @@
   "name": "north_xstudio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.northxstudio.com",
+  "homepage": "http://www.northstudio.com/",
   "dependencies": {
     "@sanity/client": "^3.3.2",
     "@sanity/image-url": "^1.0.1",
